@@ -8,7 +8,7 @@ seo:
 
 ::u-page-hero
 #title
-Write beautiful docs with Markdown
+1644.icu | 拯救我们的文明
 
 #description
 Ship fast, flexible, and SEO-optimized documentation with beautiful design out of the box.
