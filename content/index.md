@@ -39,7 +39,7 @@ seo:
   color: neutral
   trailing-icon: i-lucide-arrow-right
   size: xl
-  to: /contact/index
+  to: /contact/contact
   variant: outline
   ---
   参与投稿
