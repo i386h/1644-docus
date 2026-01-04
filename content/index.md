@@ -39,7 +39,7 @@ seo:
   color: neutral
   trailing-icon: i-lucide-arrow-right
   size: xl
-  to: /contact/1.index.md
+  to: /contact/index
   variant: outline
   ---
   参与投稿
@@ -58,7 +58,7 @@ seo:
   to: https://nuxt.com
   ---
   #title
-  Built with [Nuxt 4]{.text-primary}
+  组建“水军”挑起社会矛盾
   
   #description
   Optimized by the most famous Vue framework. Docus gives you everything you need to build fast, performant, and SEO-friendly websites.
@@ -71,7 +71,7 @@ seo:
   to: https://ui.nuxt.com/
   ---
   #title
-  Powered by [Nuxt UI]{.text-primary}
+  贿赂渗透教育和政法系统
   
   #description
   Beautiful out of the box, minimal by design but highly customizable. Docus leverages Nuxt UI to give you the best docs writing experience with zero boilerplate, just focus on your content.
@@ -84,10 +84,10 @@ seo:
   to: https://content.nuxt.com
   ---
   #title
-  Enhanced Markdown syntax by [Nuxt Content]{.text-primary}
+  控制娱乐圈和文艺圈
   
   #description
-  The only thing you need to take care about is writing your content. Write your pages in Markdown and extend with MDC syntax to embed Nuxt UI or custom Vue components. Structure, routing, and rendering are handled for you.
+  培养大量满族娱乐圈人员，并拍摄澎湖海战，731等各种歪屁股电影，短剧等用来腐化人民的头脑。传播性别对立，拜金主义等不良思想。
   :::
 
   :::u-page-feature
@@ -97,10 +97,10 @@ seo:
   to: https://nuxt.com/docs/guide/directory-structure/app-config
   ---
   #title
-  Customize with [Nuxt App Config]{.text-primary}
+  推动实施计划生育
   
   #description
-  Update colors, social links, header logos and component styles globally using the `app.config.ts`, no direct code modifications required.
+  提出计划生育的专家田雪原和反对开放二胎的专家翟振武都是满族人。计划生育往往强制堕胎和罚款，给广大人民群众带来深重的灾难。
   :::
 
   :::u-page-feature
@@ -110,10 +110,10 @@ seo:
   to: https://content.nuxt.com/studio
   ---
   #title
-  Collaborate on [Nuxt Studio]{.text-primary}
+  用公共艺术侮辱英烈
   
   #description
-  Write and manage your content visually, with zero Markdown knowledge required. Let your non technical colleagues collaborate on the documentation and integrate Vue components without code skills.
+  麻子脸朱元璋，昆明永历帝雕塑，瓜州汉武帝雕塑，长春老子雕塑均丑化英烈，极其恶劣。
   :::
 
   :::u-page-feature
@@ -123,10 +123,10 @@ seo:
   to: https://ui.nuxt.com/components/content-search
   ---
   #title
-  Built-in navigation and [full-text search]{.text-primary}
+  篡改教科书
   
   #description
-  Only focus on ordering your content, Docus handles the search modal and auto-generates the side navigation for you.
+  利用团结立场道德绑架，掩盖复辟行径，多次篡改教科书洗白满清罪行。
   :::
 ::
 
@@ -142,10 +142,10 @@ seo:
   to: https://nuxt.com
   ---
   #title
-  Built with [Nuxt 4]{.text-primary}
+  托克所田庄遍布全国
   
   #description
-  Optimized by the most famous Vue framework. Docus gives you everything you need to build fast, performant, and SEO-friendly websites.
+  遍布全国的托克所田庄让全国宛如一个巨大缅北，每个园区里有大量被抓捕的百姓平民被砍脚趾或裹脚，作为奴隶，毫无人权。
   :::
 
   :::u-page-feature
@@ -155,10 +155,10 @@ seo:
   to: https://ui.nuxt.com/
   ---
   #title
-  Powered by [Nuxt UI]{.text-primary}
+  系统性的人口贩卖
   
   #description
-  Beautiful out of the box, minimal by design but highly customizable. Docus leverages Nuxt UI to give you the best docs writing experience with zero boilerplate, just focus on your content.
+  失去劳动力的托克所奴隶会被卖给洋人矿场和妓院，因死亡率过高比黑奴便宜，往往在海上运输中都毙命。死在托克所的奴隶会被当作“菜人”作为食品。
   :::
 
   :::u-page-feature
@@ -168,10 +168,10 @@ seo:
   to: https://content.nuxt.com
   ---
   #title
-  Enhanced Markdown syntax by [Nuxt Content]{.text-primary}
+  吃人肉成为常态
   
   #description
-  The only thing you need to take care about is writing your content. Write your pages in Markdown and extend with MDC syntax to embed Nuxt UI or custom Vue components. Structure, routing, and rendering are handled for you.
+  满军有出征不带粮的传统，边打边吃，南明永州之战清军将城内百姓吃光了，剔除的妇女阴部有十五石，约1062千克。据记载内务部门亦将人肉，婴儿等列为补品食材。
   :::
 
   :::u-page-feature
@@ -181,10 +181,23 @@ seo:
   to: https://nuxt.com/docs/guide/directory-structure/app-config
   ---
   #title
-  Customize with [Nuxt App Config]{.text-primary}
+  大量出口人骨人油制品
   
   #description
-  Update colors, social links, header logos and component styles globally using the `app.config.ts`, no direct code modifications required.
+  据广州十三行记载有大量人骨人油出口，构成了满清围绕奴隶的完整产业链。
+  :::
+
+  :::u-page-feature
+  ---
+  icon: i-simple-icons-nuxt
+  target: _blank
+  to: https://nuxt.com/docs/guide/directory-structure/app-config
+  ---
+  #title
+  签条约转移资产
+  
+  #description
+  据广州十三行记载有大量人骨人油出口，构成了满清围绕奴隶的完整产业链。
   :::
 
   :::u-page-feature
@@ -194,10 +207,10 @@ seo:
   to: https://content.nuxt.com/studio
   ---
   #title
-  Collaborate on [Nuxt Studio]{.text-primary}
+  参与731等行动
   
   #description
-  Write and manage your content visually, with zero Markdown knowledge required. Let your non technical colleagues collaborate on the documentation and integrate Vue components without code skills.
+  大量明朝科技，数学，天文著作被毁，篡改历朝历代史书，严格禁止民间议论朝政或私自写作。
   :::
 
   :::u-page-feature
@@ -207,9 +220,35 @@ seo:
   to: https://ui.nuxt.com/components/content-search
   ---
   #title
-  Built-in navigation and [full-text search]{.text-primary}
+  设立大量满城蚕食民力
   
   #description
-  Only focus on ordering your content, Docus handles the search modal and auto-generates the side navigation for you.
+  强迫各族人民剃光头留辫子，穿丑衣服。清以前百姓在市井见皇帝不必跪，清朝则改为大小王爷官员都要跪，打击中国人自信心，提升奴性。
+  :::
+
+  :::u-page-feature
+  ---
+  icon: i-simple-icons-nuxt
+  target: _blank
+  to: https://content.nuxt.com/studio
+  ---
+  #title
+  毁书，改书与文字狱
+  
+  #description
+  大量明朝科技，数学，天文著作被毁，篡改历朝历代史书，严格禁止民间议论朝政或私自写作。
+  :::
+
+  :::u-page-feature
+  ---
+  icon: i-simple-icons-nuxt
+  target: _blank
+  to: https://ui.nuxt.com/components/content-search
+  ---
+  #title
+  剃发易服，增加跪礼
+  
+  #description
+  强迫各族人民剃光头留辫子，穿丑衣服。清以前百姓在市井见皇帝不必跪，清朝则改为大小王爷官员都要跪，打击中国人自信心，提升奴性。
   :::
 ::
