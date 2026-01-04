@@ -1,5 +1,5 @@
 {
-  "name": "docus-starter",
+  "name": "1644.icu",
   "scripts": {
     "dev": "nuxt dev --extends docus",
     "build": "nuxt build --extends docus"
