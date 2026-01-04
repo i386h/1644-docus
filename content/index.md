@@ -18,7 +18,7 @@ seo:
   ---
   color: neutral
   size: xl
-  to: /getting-started/installation
+  to: /历史/introduction
   trailing-icon: i-lucide-arrow-right
   ---
   了解历史
@@ -28,7 +28,7 @@ seo:
   ---
   color: neutral
   size: xl
-  to: /getting-started/installation
+  to: /现状/components
   trailing-icon: i-lucide-arrow-right
   ---
   了解现状
@@ -61,7 +61,7 @@ seo:
   组建“水军”挑起社会矛盾
   
   #description
-  Optimized by the most famous Vue framework. Docus gives you everything you need to build fast, performant, and SEO-friendly websites.
+  组建水军在网络上散布历史虚无主义，诋毁中国灿烂的历史文化和科技，打击中国人的自豪感。挑起各种对立和矛盾。
   :::
 
   :::u-page-feature
@@ -74,7 +74,7 @@ seo:
   贿赂渗透教育和政法系统
   
   #description
-  Beautiful out of the box, minimal by design but highly customizable. Docus leverages Nuxt UI to give you the best docs writing experience with zero boilerplate, just focus on your content.
+  资助北大法学系，武大法学系等培养意识形态异常的法学人员，例如“杨景媛案”。
   :::
 
   :::u-page-feature
@@ -197,7 +197,7 @@ seo:
   签条约转移资产
   
   #description
-  据广州十三行记载有大量人骨人油出口，构成了满清围绕奴隶的完整产业链。
+  签下一千（一说三千）多条约，给全球赔款割地，包括刚果这种殖民地国家，实则转移资产在各地设立信托基金，造成白银贬值。汇丰银行由此起家，李鸿章和溥仪都戴过光明会大勋章，作为战败国，签条约拍照总是站在C位。
   :::
 
   :::u-page-feature
@@ -252,3 +252,5 @@ seo:
   强迫各族人民剃光头留辫子，穿丑衣服。清以前百姓在市井见皇帝不必跪，清朝则改为大小王爷官员都要跪，打击中国人自信心，提升奴性。
   :::
 ::
+
+有更多情报，欢迎投稿
