@@ -18,7 +18,7 @@ seo:
   ---
   color: neutral
   size: xl
-  to: /历史/introduction
+  to: /history/introduction
   trailing-icon: i-lucide-arrow-right
   ---
   了解历史
@@ -28,7 +28,7 @@ seo:
   ---
   color: neutral
   size: xl
-  to: /现状/components
+  to: /current/components
   trailing-icon: i-lucide-arrow-right
   ---
   了解现状
