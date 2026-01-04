@@ -1,6 +1,6 @@
 ---
 seo:
-  title: Write beautiful docs with Markdown
+  title: 1644.icu
   description: Ship fast, flexible, and SEO-optimized documentation with beautiful design out of the box. Docus brings together the best of the Nuxt ecosystem. Powered by Nuxt UI.
 ---
 
