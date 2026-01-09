@@ -6,19 +6,19 @@ seo:
 
 ::u-page-hero
 #title
-1644.icu 拯救我们的文明
+1644.icu 各族人民大团结，一致对外
 
 #description
-1644年全球霸主的明朝失国，美西方联合满清皇族开始了长达数百年的国运财富窃取，人口减员和文化清洗。
+1644年全球霸主的明朝失国，美西方联合满清皇族开始了长达数百年的国运财富窃取，人口文化大清洗。
 
-至今仍在进行中！行动起来
+至今仍在进行中！
 
 #links
   :::u-button
   ---
   color: neutral
   size: xl
-  to: /history/introduction
+  to: /history/toks
   trailing-icon: i-lucide-arrow-right
   ---
   了解历史
@@ -28,7 +28,7 @@ seo:
   ---
   color: neutral
   size: xl
-  to: /current/components
+  to: /current/bot
   trailing-icon: i-lucide-arrow-right
   ---
   了解现状
@@ -55,7 +55,7 @@ seo:
   ---
   icon: i-simple-icons-nuxt
   target: _blank
-  to: /history/bot
+  to: /current/bot
   ---
   #title
   组建“水军”挑起社会矛盾
@@ -68,7 +68,7 @@ seo:
   ---
   icon: i-simple-icons-nuxt
   target: _blank
-  to: https://ui.nuxt.com/
+  to: /current/education-infiltration
   ---
   #title
   贿赂渗透教育和政法系统
@@ -81,7 +81,7 @@ seo:
   ---
   icon: i-simple-icons-nuxt
   target: _blank
-  to: https://content.nuxt.com
+  to: /current/entertainment-control
   ---
   #title
   控制娱乐圈和文艺圈
@@ -94,7 +94,7 @@ seo:
   ---
   icon: i-simple-icons-nuxt
   target: _blank
-  to: https://nuxt.com/docs/guide/directory-structure/app-config
+  to: /current/family-planning
   ---
   #title
   推动实施计划生育
@@ -107,7 +107,7 @@ seo:
   ---
   icon: i-simple-icons-nuxt
   target: _blank
-  to: https://content.nuxt.com/studio
+  to: /current/public-art-insult
   ---
   #title
   用公共艺术侮辱英烈
@@ -120,7 +120,7 @@ seo:
   ---
   icon: i-simple-icons-nuxt
   target: _blank
-  to: https://ui.nuxt.com/components/content-search
+  to: /current/textbook-tampering
   ---
   #title
   篡改教科书
@@ -139,7 +139,7 @@ seo:
   ---
   icon: i-simple-icons-nuxt
   target: _blank
-  to: https://nuxt.com
+  to: /history/toks
   ---
   #title
   托克所田庄遍布全国
@@ -152,7 +152,7 @@ seo:
   ---
   icon: i-simple-icons-nuxt
   target: _blank
-  to: https://ui.nuxt.com/
+  to: /history/human-trafficking
   ---
   #title
   系统性的人口贩卖
@@ -165,7 +165,7 @@ seo:
   ---
   icon: i-simple-icons-nuxt
   target: _blank
-  to: https://content.nuxt.com
+  to: /history/canibalism
   ---
   #title
   吃人肉成为常态
@@ -178,7 +178,7 @@ seo:
   ---
   icon: i-simple-icons-nuxt
   target: _blank
-  to: https://nuxt.com/docs/guide/directory-structure/app-config
+  to: /history/human-products
   ---
   #title
   大量出口人骨人油制品
@@ -191,7 +191,7 @@ seo:
   ---
   icon: i-simple-icons-nuxt
   target: _blank
-  to: https://nuxt.com/docs/guide/directory-structure/app-config
+  to: /history/treaties
   ---
   #title
   签条约转移资产
@@ -204,7 +204,7 @@ seo:
   ---
   icon: i-simple-icons-nuxt
   target: _blank
-  to: https://content.nuxt.com/studio
+  to: /history/unit731
   ---
   #title
   参与731等行动
@@ -217,7 +217,7 @@ seo:
   ---
   icon: i-simple-icons-nuxt
   target: _blank
-  to: https://ui.nuxt.com/components/content-search
+  to: /history/manchu-cities
   ---
   #title
   设立大量满城蚕食民力
@@ -230,7 +230,7 @@ seo:
   ---
   icon: i-simple-icons-nuxt
   target: _blank
-  to: https://content.nuxt.com/studio
+  to: /history/book-burning
   ---
   #title
   毁书，改书与文字狱
@@ -243,7 +243,7 @@ seo:
   ---
   icon: i-simple-icons-nuxt
   target: _blank
-  to: https://ui.nuxt.com/components/content-search
+  to: /history/hair-clothing
   ---
   #title
   剃发易服，增加跪礼
